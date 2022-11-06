@@ -24,7 +24,7 @@ addMessages("italian", {
   verify: "Verifica password"
 })
 
-init({initialLocale: 'german',
+init({initialLocale: 'english',
   fallbackLocale: 'english',
 })
 

@@ -8,8 +8,8 @@
     <!-- <div>{$time(new Date(2022, 10, 15, 11, 25))}</div>
     <div>{$time(new Date(2022, 10, 15, 11, 25), { format: 'medium' } )}</div> -->
 
-    <div>{$number(100000000)}</div>
-    <div>{$number(100000000, { locale: 'pt' })}</div>
+    <!-- <div>{$number(100000000)}</div>
+    <div>{$number(100000000, { locale: 'pt' })}</div> -->
 
     <div>
         <h1>{$_("signup")}</h1>
